@@ -1,0 +1,8 @@
+nav a.active {
+  text-decoration: underline;
+  font-size: 2xl;
+  color: red;
+  background-color: antiquewhite;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
